@@ -1,6 +1,6 @@
 # Stock Price Viewer 
 
-Written in Python 3.8.9, Stock Price Viewer is a graphical stock price visualization tool.
+Written in Python 3.8.9, Stock Price Viewer is a graphical stock price visualization tool using Matplotlib and Yahoo Finance stock data.
 
 ## Steps For Installation
 
